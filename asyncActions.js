@@ -53,3 +53,4 @@ const reducer = (state = initialState, action) => {
 
 const store = createStore(reducer)
 //git remote set-head origin -a
+//git clone httpurl
